@@ -1,4 +1,4 @@
-hi！[我是阿东](https://justkids.top/)，一位android工程师，最近正在重新学习设计模式，算法。
+hi！[我是阿东](https://justkids.top/)，一位android工程师
 
 
 
