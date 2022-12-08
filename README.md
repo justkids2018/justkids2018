@@ -1,4 +1,5 @@
-hi！[我是阿东](https://justkids.top/)，一位android工程师
+hi！[我是阿东](https://justkids.top/)
+
 
 
 
